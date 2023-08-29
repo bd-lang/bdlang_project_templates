@@ -1,0 +1,9 @@
+# Files and directories created by pub.
+.bd_tool/
+.packages
+
+# Conventional directory for build outputs.
+build/
+
+# https://bdlang.khulnasoft.com/guides/libraries/private-files#pubspeclock.
+pubspec.lock
